@@ -1,4 +1,5 @@
-## My name is Yuri and welcome to my GitHub page!
+# My name is Yuri and welcome to my GitHub page!
+
 
 •:hourglass:I am currently studying to be a web developer  
 •:dart:Strive to work with combat projects  
@@ -6,7 +7,8 @@
 •:pencil:Want to develop and learn new technologies  
 •:hearts:I am fond of music and travel  
 
-### My stack
+
+## My stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
