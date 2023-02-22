@@ -2,7 +2,7 @@
 
 <br>
 
-  •:hourglass:I am currently studying to be a web developer  
+ - :hourglass:I am currently studying to be a web developer  
   •:dart:Strive to work with combat projects  
   •:metal:Want to work in a cool team  
   •:pencil:Want to develop and learn new technologies  
