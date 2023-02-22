@@ -1,4 +1,4 @@
-# My name is Yuri and welcome to my GitHub page!
+# My name is Yuri and welcome to my GitHub page!  
 
 
   •:hourglass:I am currently studying to be a web developer  
