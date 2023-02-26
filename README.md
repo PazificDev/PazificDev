@@ -21,8 +21,9 @@
 <br>
 
 ## My contacts
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) https://t.me/Bad_Pazific_77  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) yuraduka.96@gmail.com  
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  https://t.me/Bad_Pazific_77  
+<br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)           yuraduka.96@gmail.com  
 
 <br>
 
