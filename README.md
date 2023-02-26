@@ -25,7 +25,7 @@
 [:pencil2:Write to me](https://t.me/PazificDev)  
 <br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-yuraduka.96@gmail.com  
+:email:yuraduka.96@gmail.com  
 
 <br>
 
