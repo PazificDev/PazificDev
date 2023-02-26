@@ -22,7 +22,7 @@
 
 ## My contacts
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
-https://t.me/PazificDev
+[https://t.me/PazificDev](":pencil2:Write to me")  
 <br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 yuraduka.96@gmail.com  
