@@ -27,8 +27,3 @@
 <br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 :email:yuraduka.96@gmail.com  
-
-<br>
-
-## Моя статистика  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PazificDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
