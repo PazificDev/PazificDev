@@ -2,14 +2,6 @@
 
 <br>
 
- - :hourglass:Сейчас я развиваюсь в сфере frontend разработки 
- - :dart:Стремлюсь работать с реальными проектами  
- - :metal:Хочу работать в крутой команде  
- - :pencil:Хочу изучать новые технологии  
- - :hearts:Я увлекаюсь музыкой, спортом и путешествиями  
-
-<br>
-
 ## Мой стек
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
